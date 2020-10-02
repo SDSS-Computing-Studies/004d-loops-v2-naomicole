@@ -2,7 +2,7 @@
 
 n=input("Enter a number: ")
 n=int(n)
+t=n
+s=t-1
 
-while n>0:
-    n=n-1
-    
+for i in range()
