@@ -3,11 +3,10 @@
 a=input("Enter a number smaller than 10: ")
 a=int(a)
 
-n=0
+n=1
 
-for i in a:
-    if n<=a:
-        n=n+1
-        print(n)
+for i in range(1,a+1):
+    print(n, end="")
+    n=n+1
     
     
