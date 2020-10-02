@@ -10,5 +10,5 @@ for i in name:
         break
     
 else:
- print("That name is not in the list")
+ print("That name is not on the list")
             
