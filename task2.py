@@ -1,7 +1,7 @@
 #! python3
 
 
-a=input("Enter a name: ")
+a=input("Enter a name: ").strip()
 name=("Lebron", "Kobe", "Michael", "Shaq", "Dennis")
 
 for i in name:

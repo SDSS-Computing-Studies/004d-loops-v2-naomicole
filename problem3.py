@@ -10,3 +10,4 @@ for i in a:
         n=n+1
         print(n)
     
+    
